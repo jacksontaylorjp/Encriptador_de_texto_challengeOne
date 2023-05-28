@@ -1,6 +1,8 @@
 # Encriptador_de_texto_challengeOne
 <p align="left">Codificador e decodificador de texto utilizando HTML, CSS e Javascript. Desafio do Programa Oracle ONE.</p>
-![Home Screen](https://github.com/jacksontaylorjp/Encriptador_de_texto_challengeOne/blob/main/readme/homeEncriptador.png?raw=true)
+<p align="center"> 
+    <img src="./readme/homeEncriptador.png">
+</p>
 <p align="left">Este projeto tem o objetivo de codificar um texto, assim como decodifica-lo baseado em critérios.</p>
 <p align="left">Critérios utilizados:</p>
 <br>
