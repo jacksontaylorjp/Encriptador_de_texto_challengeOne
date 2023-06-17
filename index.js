@@ -19,6 +19,7 @@ function criptografar (){
     var arraySaida = txtEntrada.value.toLowerCase()
     arraySaida = arraySaida.split("")
     var arraySFinal = []
+    /*MELHORAR A LÓGICA E TRATAR AS EXCEÇÕES*/
     for (var i = 0; i < arraySaida.length;i++){
         if (arraySaida[i] == matrizCod[0]){
             arraySFinal.push(matrizCod[1])
